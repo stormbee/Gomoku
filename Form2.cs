@@ -47,8 +47,8 @@ namespace WindowsFormsApp1
                 pointsLabel2.Text = "Points: " + user2.Points.ToString();
                 StartGameButton.Enabled = true;
 
-                UpdateDataFile(winner);
-                UpdateDataFile(loser);
+                //UpdateDataFile(winner);
+                //UpdateDataFile(loser);
             }
         }
         // TODO: изменить перезапись данных в файле. Перезаписывать файл то закрытию программы
@@ -228,11 +228,5 @@ namespace WindowsFormsApp1
             return check;
         }
 
-        private static string ReadLoginFileToEnd(out string result)
-        {
-            using(StreamReader reader = File.OpenText("login.txt"))
-                result = reader.ReadToEnd();
-            return result;
-        }
     }
 }

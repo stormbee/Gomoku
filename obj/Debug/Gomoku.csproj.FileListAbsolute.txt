@@ -1,0 +1,12 @@
+C:\Users\andro\Source\Repos\Gomoku\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\andro\Source\Repos\Gomoku\bin\Debug\WindowsFormsApp1.exe
+C:\Users\andro\Source\Repos\Gomoku\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\andro\Source\Repos\Gomoku\obj\Debug\Gomoku.csproj.AssemblyReference.cache
+C:\Users\andro\Source\Repos\Gomoku\obj\Debug\Gomoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\andro\Source\Repos\Gomoku\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\andro\Source\Repos\Gomoku\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\andro\Source\Repos\Gomoku\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\andro\Source\Repos\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\andro\Source\Repos\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\andro\Source\Repos\Gomoku\obj\Debug\WindowsFormsApp1.exe
+C:\Users\andro\Source\Repos\Gomoku\obj\Debug\WindowsFormsApp1.pdb
